@@ -220,7 +220,7 @@ def household(char,slctddistrict):
 
 
 
-app.run_server(debug=True)
+app.run_server(debug=True,port=3000)
 
 
 
